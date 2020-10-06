@@ -32,7 +32,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
 ### Some changes to code base using map and arrow functions
-### The Origin codes had the below code base structure, with the map & array the code base is now shorter and more cleaner!
+### The Origin codes had the below code base structure, with the map & array the code base is now shorter and more cleaner! The below was the original code, there is alot of repeatition of 'this.addToInput'
 
 <div className="row">
        
